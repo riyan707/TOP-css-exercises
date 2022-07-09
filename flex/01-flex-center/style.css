@@ -3,6 +3,10 @@
   border: 4px solid midnightblue;
   width: 400px;
   height: 300px;
+  display: flex;
+  /*to center in middle of space*/
+  align-items: center;
+  justify-content: center;
 }
 
 .box {
